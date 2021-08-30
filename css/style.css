@@ -1,0 +1,87 @@
+/*--------------------
+    common style 
+ --------------------*/
+ .headline{
+    font-size: 42px;
+    font-weight: 700;
+}
+.headline-gray{
+    color: rgb(90, 88, 88);
+}
+.headline-orange{
+    color: #E76F51;
+}
+/*----------------------
+     herader style 
+ ---------------------*/
+
+header{
+    background-color: #264653;
+}
+.btn{
+    background-color: #E76F51;
+    }
+
+/*-----------------------
+   main sections style 
+ -----------------------*/
+
+ /* bikes model */
+
+.bike-collection{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.blend-collection{
+    mix-blend-mode: luminosity;
+}
+
+/* happy clients says */
+.happy-clients{
+    margin-bottom: 100px;
+
+}
+.client{
+    width: 150px;
+height: 150px;
+}
+.fa-star{
+    color: #E77C40;
+    width: 22px;
+    height: 22px;
+}
+
+
+/* frequently asked questions */
+
+.frequently{
+    margin-top: 150px;
+    margin-bottom: 120px;
+}
+.frequently-headline{
+    margin-bottom: 100px;
+}
+
+/* upcoming bikes */
+.upcoming-bike{
+    margin-bottom: 120px;
+}
+.upcoming-bike h1{
+    margin-bottom: 70px;
+}
+
+/*---------------------
+    footer section 
+-----------------------*/
+
+.nav-link{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.nev-1{
+    margin-bottom: -5%;
+}
+
+.bike-list{
+    margin-bottom: 100px;
+}
